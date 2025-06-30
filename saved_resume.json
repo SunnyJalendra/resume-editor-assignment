@@ -1,0 +1,23 @@
+{
+  "name": "Khushi",
+  "summary": "Experienced developer...",
+  "experience": [
+    {
+      "company": "Interview Ghost",
+      "role": "Data Analysis",
+      "years": "2023-2025"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Maharshi Dayanand University",
+      "degree": "B.Tech CSE",
+      "year": "2019 - 2023"
+    }
+  ],
+  "skills": [
+    "\u2728 Improved version of: React",
+    "\u2728 Improved version of: Node.js",
+    "\u2728 Improved version of: FastAPI"
+  ]
+}
