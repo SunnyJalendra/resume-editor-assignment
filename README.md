@@ -1,8 +1,5 @@
-## this is Frotened Part File structure: 
-
-##    Root Folder : Resume_editor --> Frontend Folder And backened Folder
+## this is Frotened Part File structure:
                      
-frontend/
 ├── src/
 │   ├── components/         # Reusable components (ResumeEditor, SectionEditor, etc.)
 │   ├── App.jsx             # Main app
@@ -32,7 +29,7 @@ This is the frontend for the web-based **Resume Editor** built using **React.js*
 ### Prerequisites : 
 
 - Node.js (v16 or later)
-- Backend server running (FastAPI) – see [`/backend`](../backend) folder
+- Backend server running (FastAPI)
 
 ### Installation
 cd frontend
@@ -41,8 +38,6 @@ npm install
     npm run dev
 ## if does not work then do copy path of index.html file and paste on browser.    
 ## this is Backend  Part File structure: 
-backend/
+
 ├── main.py # FastAPI application
 ├── saved_resume.json # File where resume data is stored
-├── venv/ # Python virtual environment (ignore this in Git)
-└── pycache/ # Auto-generated Python bytecode files
